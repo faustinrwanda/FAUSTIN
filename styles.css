@@ -1,0 +1,41 @@
+/* Global styles */
+body {
+    background-color: skyblue;
+    color: white;
+    font-size: 20px;
+}
+.name {
+    color: blue;
+    text-align: center;
+}
+
+/* About me section */
+.about-me {
+    color: green;
+}
+
+/* Profile picture */
+.profile-pic {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Contact information */
+.contact-info {
+    list-style: none;
+    padding: 0;
+}
+.contact-info li {
+    margin-bottom: 10px;
+}
+.contact-heading {
+    color: green;
+}
+.email-label {
+    color: green;
+}
+.phone-label {
+    color: green;
+}
